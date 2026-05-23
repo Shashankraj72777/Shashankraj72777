@@ -1,15 +1,15 @@
 <h1 align="center">Shashank Raj</h1>
 
 <h3 align="center">
-Software Engineer • Full Stack Developer • Backend Focused
+Software Engineer • Full Stack Developer • Problem Solver
 </h3>
 
 <p align="center">
-Building scalable systems, production-ready applications, and backend architectures.
+Building scalable systems, production-ready applications, and impactful user experiences.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Backend+Focused+Engineer;React+%7C+Next.js+%7C+Node.js;Microservices+%7C+Redis+%7C+Docker;Building+Production+Ready+Applications;200%2B+LeetCode+Problems+Solved" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Microservices+%7C+Redis+%7C+Docker;Building+Production+Ready+Applications;200%2B+LeetCode+Problems+Solved;Always+Learning+%26+Building" />
 </p>
 
 ---
@@ -29,12 +29,13 @@ Problem Solver
 
 I’m a Full Stack Developer with professional experience building scalable and production-ready web applications.
 
-I enjoy engineering:
-- scalable backend systems
-- distributed architectures
+I enjoy building:
+- scalable full-stack applications
+- intuitive user experiences
+- distributed systems
 - secure authentication systems
-- high-performance APIs
 - AI-powered applications
+- high-performance APIs
 
 Currently focused on becoming a highly skilled Software Engineer capable of designing systems that scale efficiently in real-world production environments.
 
@@ -125,12 +126,13 @@ Microservices architecture project built using:
 
 ## 🏗️ What I Love Building
 
-- Scalable backend systems
-- Microservices architectures
+- Scalable full-stack applications
 - AI-powered products
+- Production-ready web platforms
+- Distributed systems
 - Secure authentication systems
 - High-performance APIs
-- Production-ready full-stack applications
+- Clean and intuitive user interfaces
 
 ---
 
@@ -157,7 +159,7 @@ while(!success) {
 
 ## 🚧 Current Focus
 
-- Advanced Backend Development
+- Advanced Full Stack Development
 - System Design
 - Distributed Systems
 - Scalable Architectures
