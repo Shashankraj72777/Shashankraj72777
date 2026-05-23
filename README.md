@@ -5,7 +5,7 @@ Software Engineer • Full Stack Developer • Backend Focused
 </h3>
 
 <p align="center">
-Building scalable systems, microservices, and production-ready applications.
+Building scalable systems, production-ready applications, and backend architectures.
 </p>
 
 <p align="center">
@@ -29,12 +29,11 @@ Problem Solver
 
 I’m a Full Stack Developer with professional experience building scalable and production-ready web applications.
 
-I enjoy working on:
-- backend architecture
-- distributed systems
-- microservices
-- API optimization
-- authentication systems
+I enjoy engineering:
+- scalable backend systems
+- distributed architectures
+- secure authentication systems
+- high-performance APIs
 - AI-powered applications
 
 Currently focused on becoming a highly skilled Software Engineer capable of designing systems that scale efficiently in real-world production environments.
@@ -46,12 +45,12 @@ Currently focused on becoming a highly skilled Software Engineer capable of desi
 > “Good software is not just code that works.  
 > It’s code that scales, survives production, and stays maintainable.”
 
-I love building systems that are:
-- scalable
-- clean
-- maintainable
-- performant
-- production-ready
+I believe strong engineering is a combination of:
+- problem solving
+- consistency
+- system thinking
+- curiosity
+- continuous improvement
 
 ---
 
@@ -73,6 +72,15 @@ I love building systems that are:
 - Implemented JWT Authentication & RBAC systems
 - Worked with CI/CD pipelines and deployment workflows
 - Contributed to technical web pipelines in the VFX production environment
+
+---
+
+### ☁️ Cloud Research Analyst Intern — CLARCHS
+
+- Built reusable frontend components using React.js & Next.js
+- Integrated REST APIs and optimized frontend responsiveness
+- Improved code reusability and frontend performance
+- Worked in collaborative remote development workflows
 
 ---
 
@@ -157,23 +165,44 @@ while(!success) {
 
 ---
 
-## 📊 GitHub Analytics
+## 🧩 Developer Mindset
 
-<p align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shashankraj72777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+```txt
+Build → Break → Learn → Optimize → Repeat
+```
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankraj72777&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Shashankraj72777&theme=tokyonight&hide_border=true" />
-</p>
+I enjoy engineering systems that:
+- handle scale
+- survive production traffic
+- remain maintainable
+- solve real-world problems
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Beyond Coding
 
-I genuinely enjoy optimizing backend APIs and database queries more than designing UI.
+- I enjoy optimizing backend APIs and database performance
+- I like understanding how systems behave under scale
+- I believe consistency beats motivation
+- I focus on becoming better every single day
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shashankraj72777&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankraj72777&layout=compact&theme=transparent&hide_border=true&langs_count=8&cache_seconds=1800"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Shashankraj72777&theme=transparent&hide_border=true&cache_seconds=1800"/>
+
+</p>
 
 ---
 
@@ -184,7 +213,7 @@ I genuinely enjoy optimizing backend APIs and database queries more than designi
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/shashankraj72777">
+<a href="https://linkedin.com/in/shashankraj">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
