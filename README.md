@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Shashank Raj</h1>
+<h1 align="center">Shashank Raj</h1>
 
 <h3 align="center">
-Full Stack Developer • Software Engineer • Backend Enthusiast
+Software Engineer • Full Stack Developer • Backend Focused
 </h3>
 
 <p align="center">
-Building scalable web applications, microservices, and AI-powered products.
+Building scalable systems, microservices, and production-ready applications.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Software+Engineer;React+%7C+Next.js+%7C+Node.js;Microservices+%7C+PostgreSQL+%7C+Docker;200%2B+DSA+Problems+Solved;Always+Building+%26+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Software+Engineer;Full+Stack+Developer;Backend+Focused+Engineer;React+%7C+Next.js+%7C+Node.js;Microservices+%7C+Redis+%7C+Docker;Building+Production+Ready+Applications;200%2B+LeetCode+Problems+Solved" />
 </p>
 
 ---
@@ -18,8 +18,8 @@ Building scalable web applications, microservices, and AI-powered products.
 > whoami
 
 Shashank Raj
-Full Stack Developer
 Software Engineer
+Full Stack Developer
 Problem Solver
 ```
 
@@ -27,70 +27,52 @@ Problem Solver
 
 ## 🚀 About Me
 
-- 💼 Junior Full Stack Developer at **R2VFX Studios**
-- ⚡ Experienced in building production-ready web applications
-- 🧠 Solved **200+ LeetCode problems** using C++
-- 🔥 Passionate about backend engineering, scalable systems & clean architecture
-- 🌱 Currently learning:
-  - Advanced Backend Development
-  - System Design
-  - Distributed Systems
-  - High Performance APIs
-- 🎯 Goal: Become a world-class Software Engineer
+I’m a Full Stack Developer with professional experience building scalable and production-ready web applications.
+
+I enjoy working on:
+- backend architecture
+- distributed systems
+- microservices
+- API optimization
+- authentication systems
+- AI-powered applications
+
+Currently focused on becoming a highly skilled Software Engineer capable of designing systems that scale efficiently in real-world production environments.
 
 ---
 
 ## 🧠 Engineering Philosophy
 
-> "Write code that scales, survives production, and remains readable at 2 AM."
+> “Good software is not just code that works.  
+> It’s code that scales, survives production, and stays maintainable.”
 
-I enjoy building systems that are:
+I love building systems that are:
 - scalable
+- clean
 - maintainable
 - performant
 - production-ready
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=ts,js,cpp,python,sql" />
-</p>
-
-### 🎨 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Databases
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
-</p>
-
-### 🚀 DevOps & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,rabbitmq,jest" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,python,react,nextjs,nodejs,express,postgres,mongodb,redis,docker,rabbitmq,tailwind,git,github,githubactions,jest,vscode" />
 </p>
 
 ---
 
 ## 💼 Experience
 
-### 🚀 Junior Full Stack Developer — R2VFX Studios Pvt. Ltd.
+### 🚀 Junior Full Stack Developer — R2VFX Studios
 
-- Delivered production-grade frontend & backend features
-- Built scalable REST APIs with Node.js & Express.js
-- Optimized PostgreSQL and MongoDB queries
-- Implemented JWT Authentication & RBAC
-- Worked with CI/CD pipelines using GitHub Actions
-- Contributed to the web pipeline for Bollywood film **Dhurandhar 2 (2025)**
+- Delivered production-grade frontend and backend features
+- Built scalable REST APIs using Node.js & Express
+- Optimized PostgreSQL and MongoDB queries for high-traffic endpoints
+- Implemented JWT Authentication & RBAC systems
+- Worked with CI/CD pipelines and deployment workflows
+- Contributed to technical web pipelines in the VFX production environment
 
 ---
 
@@ -98,25 +80,25 @@ I enjoy building systems that are:
 
 ### 🧠 AI Expense Tracker
 
-AI-powered expense tracking SaaS application built with:
+AI-powered SaaS expense tracking platform built using:
 - Next.js
 - TypeScript
 - PostgreSQL
 - JWT Authentication
 - REST APIs
-- AI Integration
+- AI categorization
 
-✨ Features:
+#### Features
 - Smart expense categorization
-- Financial dashboards
-- Secure authentication
-- Real-time tracking
+- Financial analytics dashboard
+- Secure authentication system
+- Production deployment on Vercel
 
 ---
 
 ### ⚡ Scalr — Distributed Order System
 
-Microservices architecture project using:
+Microservices architecture project built using:
 - Node.js
 - TypeScript
 - RabbitMQ
@@ -124,32 +106,23 @@ Microservices architecture project using:
 - PostgreSQL
 - Docker
 
-✨ Features:
+#### Features
 - API Gateway architecture
-- Async communication
-- Redis caching
-- Containerized services
+- Async event communication
+- Redis caching layer
+- Dockerized services
+- Scalable backend design
 
 ---
 
 ## 🏗️ What I Love Building
 
 - Scalable backend systems
-- AI-powered applications
+- Microservices architectures
+- AI-powered products
 - Secure authentication systems
-- Distributed architectures
-- Production-ready full-stack apps
-- Developer-focused tools
-
----
-
-## 🚧 Current Focus
-
-- Building scalable backend systems
-- Improving system design knowledge
-- Learning distributed systems
-- Solving DSA problems daily
-- Exploring high-performance architectures
+- High-performance APIs
+- Production-ready full-stack applications
 
 ---
 
@@ -163,7 +136,7 @@ while(!success) {
 }
 ```
 
-- Solved 200+ LeetCode problems
+- Solved 200+ LeetCode problems using C++
 - Strong understanding of:
   - Arrays
   - Trees
@@ -174,33 +147,44 @@ while(!success) {
 
 ---
 
-## 📊 GitHub Stats
+## 🚧 Current Focus
+
+- Advanced Backend Development
+- System Design
+- Distributed Systems
+- Scalable Architectures
+- API Performance Optimization
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashankraj&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankraj&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Shashankraj72777&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankraj72777&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=shashankraj&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Shashankraj72777&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## ⚡ Fun Fact
 
-I can spend hours optimizing APIs just to save milliseconds.
+I genuinely enjoy optimizing backend APIs and database queries more than designing UI.
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-<a href="https://github.com/shashankraj">
+<a href="https://github.com/Shashankraj72777">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com/in/shashankraj">
+<a href="https://linkedin.com/in/shashankraj72777">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -212,5 +196,5 @@ I can spend hours optimizing APIs just to save milliseconds.
 ---
 
 <p align="center">
-⭐ Consistency + Discipline + Engineering Mindset
+⚡ Building. Learning. Improving. Repeating.
 </p>
