@@ -1,97 +1,216 @@
-# Hi 👋, I'm Shashank Raj
+<h1 align="center">Hi 👋, I'm Shashank Raj</h1>
 
-### Software Engineer | Full-Stack Developer | Problem Solver
+<h3 align="center">
+Full Stack Developer • Software Engineer • Backend Enthusiast
+</h3>
 
-💻 Passionate about building scalable web applications and solving real-world problems through software engineering.
+<p align="center">
+Building scalable web applications, microservices, and AI-powered products.
+</p>
 
-🚀 Currently working as a Junior Software Engineer with hands-on experience in:
-- React & Next.js
-- Node.js & Express.js
-- PostgreSQL & MongoDB
-- REST APIs & Authentication
-- Full-Stack Web Development
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Software+Engineer;React+%7C+Next.js+%7C+Node.js;Microservices+%7C+PostgreSQL+%7C+Docker;200%2B+DSA+Problems+Solved;Always+Building+%26+Learning" />
+</p>
+
+---
+
+```bash
+> whoami
+
+Shashank Raj
+Full Stack Developer
+Software Engineer
+Problem Solver
+```
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Working on Full-Stack Applications
-- 🌱 Improving DSA & System Design skills
-- ⚡ Strong interest in Software Engineering & AI
-- 💡 Love building clean, scalable, and production-ready applications
-- 🎯 Goal: Become a top Software Development Engineer
+- 💼 Junior Full Stack Developer at **R2VFX Studios**
+- ⚡ Experienced in building production-ready web applications
+- 🧠 Solved **200+ LeetCode problems** using C++
+- 🔥 Passionate about backend engineering, scalable systems & clean architecture
+- 🌱 Currently learning:
+  - Advanced Backend Development
+  - System Design
+  - Distributed Systems
+  - High Performance APIs
+- 🎯 Goal: Become a world-class Software Engineer
+
+---
+
+## 🧠 Engineering Philosophy
+
+> "Write code that scales, survives production, and remains readable at 2 AM."
+
+I enjoy building systems that are:
+- scalable
+- maintainable
+- performant
+- production-ready
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,python,mysql)
+### 💻 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,python,sql" />
+</p>
 
-### Frontend
-![My Skills](https://skillicons.dev/icons?i=react,nextjs,html,css)
+### 🎨 Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
 
-### Backend
-![My Skills](https://skillicons.dev/icons?i=nodejs,express)
+### ⚙️ Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-### Databases & Tools
-![My Skills](https://skillicons.dev/icons?i=postgres,mongodb,git,github,vscode)
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,mysql" />
+</p>
+
+### 🚀 DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,githubactions,vscode,rabbitmq,jest" />
+</p>
+
+---
+
+## 💼 Experience
+
+### 🚀 Junior Full Stack Developer — R2VFX Studios Pvt. Ltd.
+
+- Delivered production-grade frontend & backend features
+- Built scalable REST APIs with Node.js & Express.js
+- Optimized PostgreSQL and MongoDB queries
+- Implemented JWT Authentication & RBAC
+- Worked with CI/CD pipelines using GitHub Actions
+- Contributed to the web pipeline for Bollywood film **Dhurandhar 2 (2025)**
 
 ---
 
 ## 📌 Featured Projects
 
-### 🔹 XSalesBot — Automation Platform
-- Developed scalable REST APIs using Node.js & Express
-- Implemented authentication and access control
-- Followed modular architecture and clean coding practices
+### 🧠 AI Expense Tracker
 
-### 🔹 Expense Tracker
-- Built backend services for expense management
-- Designed SQL database schemas and CRUD operations
+AI-powered expense tracking SaaS application built with:
+- Next.js
+- TypeScript
+- PostgreSQL
+- JWT Authentication
+- REST APIs
+- AI Integration
+
+✨ Features:
+- Smart expense categorization
+- Financial dashboards
+- Secure authentication
+- Real-time tracking
 
 ---
 
-## 📈 Problem Solving
+### ⚡ Scalr — Distributed Order System
 
-- Solving DSA problems regularly on LeetCode
-- Focused on:
+Microservices architecture project using:
+- Node.js
+- TypeScript
+- RabbitMQ
+- Redis
+- PostgreSQL
+- Docker
+
+✨ Features:
+- API Gateway architecture
+- Async communication
+- Redis caching
+- Containerized services
+
+---
+
+## 🏗️ What I Love Building
+
+- Scalable backend systems
+- AI-powered applications
+- Secure authentication systems
+- Distributed architectures
+- Production-ready full-stack apps
+- Developer-focused tools
+
+---
+
+## 🚧 Current Focus
+
+- Building scalable backend systems
+- Improving system design knowledge
+- Learning distributed systems
+- Solving DSA problems daily
+- Exploring high-performance architectures
+
+---
+
+## 📈 DSA & Problem Solving
+
+```cpp
+while(!success) {
+    practice();
+    learn();
+    improve();
+}
+```
+
+- Solved 200+ LeetCode problems
+- Strong understanding of:
   - Arrays
-  - Strings
-  - Hashing
-  - Linked Lists
   - Trees
-
----
-
-## 🏆 Experience
-
-### Junior Software Engineer — R2VFX Studios Pvt. Ltd.
-- Building production-ready full-stack features
-- Designing APIs and database schemas
-- Improving system reliability and performance
-
-### Software Engineering Intern — CLARCHS.com
-- Built reusable React & Next.js components
-- Integrated frontend with backend APIs
+  - Graphs
+  - Dynamic Programming
+  - Binary Search
+  - Hashing
 
 ---
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=shashankraj&show_icons=true&theme=tokyonight)
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shashankraj&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashankraj&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=shashankraj&theme=tokyonight)
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shashankraj&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+I can spend hours optimizing APIs just to save milliseconds.
 
 ---
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/shashankraj)
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/shashankraj)
+<p align="center">
+<a href="https://github.com/shashankraj">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
 
-📧 Email: shashankraj72777@gmail.com
+<a href="https://linkedin.com/in/shashankraj">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:shashankraj72777@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
 
 ---
 
-⭐ “Consistent learning and building real-world projects every day.”
+<p align="center">
+⭐ Consistency + Discipline + Engineering Mindset
+</p>
