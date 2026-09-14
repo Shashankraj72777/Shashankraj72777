@@ -4,25 +4,35 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer+%7C+Backend+Focused;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Production-Ready+Applications;AI-Powered+Applications+%F0%9F%A4%96;Distributed+Systems+%7C+Real-Time+Applications" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%F0%9F%9A%80;Full-Stack+Developer+%7C+Backend+Focused;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Building+Production-Ready+Applications;AI-Powered+Applications+%F0%9F%A4%96;Distributed+Systems+%7C+Real-Time+Applications" alt="Typing SVG"/>
 
 <br><br>
 
-<a href="https://github.com/Shashankraj72777">
-<img src="https://img.shields.io/badge/GitHub-Shashankraj72777-181717?style=for-the-badge&logo=github" />
+<a href="https://portfolio-iota-eight-coskywto4u.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="mailto:shashankraj72777@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/shashankraj72777/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
+<a href="https://github.com/Shashankraj72777">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/shashankraj72777/">
+<img src="https://img.shields.io/badge/LeetCode-200%2B-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Shashankraj72777&label=PROFILE%20VIEWS&style=for-the-badge&color=58A6FF" />
+<a href="mailto:shashankraj72777@gmail.com">
+<img src="https://img.shields.io/badge/Email-Get%20In%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Shashankraj72777&label=PROFILE%20VIEWS&style=for-the-badge&color=58A6FF" alt="Profile Views" />
 
 </div>
 
@@ -30,25 +40,19 @@
 
 # 👋 Hey, I'm Shashank Raj
 
-I'm a **Software Engineer** specializing in **full-stack web development**, with a strong focus on building production-ready applications using **React, Next.js, Node.js, TypeScript, PostgreSQL, MongoDB, and Redis**.
+**Software Engineer | Full-Stack Developer**
 
-I enjoy working on problems involving:
+I specialize in building **production-ready full-stack applications** using modern JavaScript/TypeScript technologies, with a strong focus on **backend systems, API performance, real-time applications, databases, and scalable architecture**.
 
-* 🚀 Production web applications
-* ⚡ API performance and optimization
-* 🤖 AI-powered applications
-* 🔄 Real-time systems
-* 🧩 Microservices
-* 📨 Event-driven architecture
-* 🗄️ Database optimization
-* 🔐 Authentication & RBAC
-* 🐳 Containerized applications
+My core stack includes **React, Next.js, Node.js, TypeScript, PostgreSQL, MongoDB, Redis, Socket.IO, RabbitMQ, and Docker**.
 
-Currently working as a **Junior Full Stack Developer at R2VFX Studios Pvt. Ltd.**, where I've shipped **10+ production features**, improved API response times by approximately **40%**, and reduced reported bugs by approximately **30%**.
+I also enjoy building **AI-powered applications** using LLM APIs and solving challenging problems with **Data Structures & Algorithms**.
+
+> **Build. Measure. Optimize. Ship. 🚀**
 
 ---
 
-# ⚡ Quick Overview
+# ⚡ Engineering Impact
 
 <div align="center">
 
@@ -57,39 +61,33 @@ Currently working as a **Junior Full Stack Developer at R2VFX Studios Pvt. Ltd.*
 
 <td align="center" width="180">
 
-### 💻
+### 🚀 10+
 
-**Software Engineer**
-
-</td>
-
-<td align="center" width="180">
-
-### 🚀
-
-**10+**
-
-Production Features
+Production<br>Features
 
 </td>
 
 <td align="center" width="180">
 
-### ⚡
+### ⚡ ~40%
 
-**~40%**
-
-API Improvement
+API Response<br>Improvement
 
 </td>
 
 <td align="center" width="180">
 
-### 🤖
+### 🐞 ~30%
 
-**30+**
+Bug<br>Reduction
 
-AI Interview Roles
+</td>
+
+<td align="center" width="180">
+
+### 🤖 30+
+
+Engineering<br>Roles
 
 </td>
 
@@ -97,43 +95,35 @@ AI Interview Roles
 
 <tr>
 
-<td align="center">
+<td align="center" width="180">
 
-### 🧩
-
-**4**
+### 🧩 4
 
 Microservices
 
 </td>
 
-<td align="center">
+<td align="center" width="180">
 
-### 🗄️
+### 🗄️ 60%
 
-**60%**
-
-Fewer Repeated DB Queries
+Fewer Repeated<br>DB Queries
 
 </td>
 
-<td align="center">
+<td align="center" width="180">
 
-### 🧠
+### 🧠 200+
 
-**200+**
-
-LeetCode Problems
+LeetCode<br>Problems
 
 </td>
 
-<td align="center">
+<td align="center" width="180">
 
-### 🔐
+### 🔐 5+
 
-**5+**
-
-RBAC Roles
+RBAC<br>Roles
 
 </td>
 
@@ -149,7 +139,6 @@ RBAC Roles
 ```typescript
 const shashank = {
   name: "Shashank Raj",
-
   role: "Software Engineer",
 
   specialization: "Full-Stack Development",
@@ -198,13 +187,15 @@ const shashank = {
     "Prompt Engineering"
   ],
 
-  dsa: "200+ LeetCode Problems",
+  problemSolving: "200+ LeetCode Problems",
 
-  currentlyBuilding: [
-    "Scalable Web Applications",
-    "AI-Powered Applications",
-    "Distributed Systems"
-  ]
+  openTo: [
+    "SDE-1",
+    "Full Stack Software Engineer"
+  ],
+
+  location: "India 🇮🇳",
+  availability: "Remote Worldwide / Relocation"
 };
 ```
 
@@ -214,51 +205,51 @@ const shashank = {
 
 <div align="center">
 
-## Languages
+### 💻 Languages
 
 <img src="https://skillicons.dev/icons?i=ts,js,cpp,python" />
 
 <br><br>
 
-## Frontend
+### 🎨 Frontend
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 
 <br><br>
 
-## Backend
+### ⚙️ Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 <br><br>
 
-## Databases
+### 🗄️ Databases
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
 
 <br><br>
 
-## Architecture & Messaging
+### 📨 Messaging & Architecture
 
 <img src="https://skillicons.dev/icons?i=rabbitmq" />
 
-<br><br>
+<br>
 
 `REST APIs` · `Socket.IO` · `Microservices` · `RBAC` · `Event-Driven Architecture`
 
 <br><br>
 
-## DevOps & Tools
+### 🐳 DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=docker,githubactions,git,vercel" />
 
+<br>
+
+`CI/CD` · `Render` · `Upstash`
+
 <br><br>
 
-`CI/CD` · `Vercel` · `Render` · `Upstash`
-
-<br><br>
-
-## AI
+### 🤖 AI
 
 `LLM APIs` · `Prompt Engineering`
 
@@ -272,62 +263,61 @@ const shashank = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI-Powered-8A2BE2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/30%2B-Engineering%20Roles-58A6FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Real--Time-Socket.IO-010101?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Redis-Live%20Sessions-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<a href="https://github.com/Shashankraj72777/ai-mock-interview">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://ai-mock-interview-eight-blond.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-Try%20It-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
-### 📌 Overview
+<br>
 
-A full-stack **AI-powered mock interview platform** designed to simulate technical interviews across **30+ engineering roles**.
-
-The platform combines:
-
-**AI + Real-Time Communication + Persistent Sessions + Coding**
+> **AI-powered real-time mock interview platform** designed to simulate technical interviews across **30+ engineering roles**.
 
 ### ✨ Key Features
 
 * 🤖 LLM-powered interview interactions
-* 🎯 Supports **30+ engineering roles**
-* ⚡ Real-time interview flow using **Socket.IO**
+* 🎯 **30+ engineering roles**
+* ⚡ Real-time interview sessions using **Socket.IO**
 * 💻 Integrated **Monaco code editor**
 * 🔄 Redis-backed live session state
 * 💾 PostgreSQL checkpoints
 * ♻️ Exit and resume interview sessions
-* 🔌 LLM provider migration without changing application-level calling code
+* 🔌 LLM provider migration without changing application calling code
 * ☁️ Deployed using **Vercel, Render, and Upstash**
 
-### 🧱 Architecture
+### 🧱 System Architecture
 
 ```text
-                         ┌─────────────────────┐
-                         │      Next.js        │
-                         │    Interview UI     │
-                         └──────────┬──────────┘
+                         ┌──────────────────────┐
+                         │       Next.js        │
+                         │    Interview UI      │
+                         └──────────┬───────────┘
                                     │
                                     ▼
-                         ┌─────────────────────┐
-                         │      Socket.IO      │
-                         │   Real-Time Layer   │
-                         └──────────┬──────────┘
+                         ┌──────────────────────┐
+                         │      Socket.IO       │
+                         │    Real-Time Layer   │
+                         └──────────┬───────────┘
                                     │
                        ┌────────────┴────────────┐
                        │                         │
                        ▼                         ▼
-              ┌────────────────┐       ┌────────────────┐
-              │     Redis      │       │   PostgreSQL   │
-              │  Live Session  │       │  Checkpoints   │
-              │     State      │       │                │
-              └───────┬────────┘       └───────┬────────┘
+              ┌────────────────┐        ┌────────────────┐
+              │     Redis      │        │   PostgreSQL   │
+              │  Live Session  │        │  Checkpoints   │
+              │     State      │        │                │
+              └───────┬────────┘        └───────┬────────┘
                       │                         │
                       └────────────┬────────────┘
                                    ▼
-                          ┌────────────────┐
-                          │    LLM APIs    │
-                          │ AI Interviewer │
-                          └────────────────┘
+                          ┌─────────────────┐
+                          │     LLM APIs    │
+                          │  AI Interviewer │
+                          └─────────────────┘
 ```
 
 ### 🛠️ Technology
@@ -338,7 +328,27 @@ The platform combines:
 
 <br><br>
 
-`Next.js` · `TypeScript` · `Node.js` · `Socket.IO` · `Redis` · `PostgreSQL` · `Monaco Editor` · `LLM APIs`
+`Next.js` · `TypeScript` · `Node.js` · `Socket.IO` · `Redis` · `PostgreSQL`
+
+<br>
+
+`Monaco Editor` · `LLM APIs` · `Vercel` · `Render` · `Upstash`
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Shashankraj72777/ai-mock-interview">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+ 
+
+<a href="https://ai-mock-interview-eight-blond.vercel.app/">
+<img src="https://img.shields.io/badge/Open%20Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
 </div>
 
@@ -348,31 +358,36 @@ The platform combines:
 
 <div align="center">
 
+<a href="https://github.com/Shashankraj72777/scalr-distributed-order-system">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 <img src="https://img.shields.io/badge/Microservices-4-FF6F00?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/RabbitMQ-Event--Driven-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Redis-60%25%20Query%20Reduction-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 
 </div>
 
-### 📌 Overview
+<br>
 
-A distributed order system built using **microservices and asynchronous event-driven communication**.
+> **Distributed order system** built around microservices, asynchronous messaging, caching, PostgreSQL, and containerized development.
 
 ### ✨ Engineering Highlights
 
 * 🧩 Designed **4 independent microservices**
-* 📨 Implemented asynchronous service communication using **RabbitMQ**
-* ⚡ Added Redis caching
+* 📨 Implemented asynchronous communication using **RabbitMQ**
+* ⚡ Added **Redis caching**
 * 🗄️ Reduced repeated database queries by approximately **60%**
-* 🐳 Containerized the system using **Docker Compose**
-* 🔄 Built around asynchronous communication patterns
+* 🐳 Containerized services using **Docker Compose**
+* 🔄 Designed around asynchronous communication patterns
 
-### 🧱 Architecture
+### 🧱 System Architecture
 
 ```text
                        ┌──────────────────┐
-                       │    API Gateway   │
+                       │    API Layer     │
                        └────────┬─────────┘
                                 │
                                 ▼
@@ -392,9 +407,9 @@ A distributed order system built using **microservices and asynchronous event-dr
                                ▼
                        ┌──────────────────┐
                        │    PostgreSQL    │
-                       └──────────────────┘
-                               ▲
-                               │
+                       └────────┬─────────┘
+                                ▲
+                                │
                        ┌──────────────────┐
                        │      Redis       │
                        │      Cache       │
@@ -413,17 +428,25 @@ A distributed order system built using **microservices and asynchronous event-dr
 
 </div>
 
+<br>
+
+<div align="center">
+
+<a href="https://github.com/Shashankraj72777/scalr-distributed-order-system">
+<img src="https://img.shields.io/badge/View%20Scalr%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
 ---
 
 # 💼 Professional Experience
 
-## 🏢 Junior Full Stack Developer
+## 🚀 Junior Full Stack Developer
 
 ### R2VFX Studios Pvt. Ltd.
 
-`Jul 2025 – Present`
-
-Working across:
+**Jul 2025 – Present**
 
 ```text
 React.js
@@ -434,10 +457,10 @@ Node.js / Express.js
    ↓
 PostgreSQL / MongoDB / Redis
    ↓
-Docker / GitHub Actions / CI-CD
+Docker / GitHub Actions / CI/CD
 ```
 
-### 📈 Impact
+### 📈 Engineering Impact
 
 * 🚀 Delivered **10+ production features**
 * ⚡ Improved API response times by approximately **40%** on high-traffic endpoints
@@ -453,11 +476,11 @@ Contributed as part of the R2VFX Studios technology team on **Dhurandhar 2 (2025
 
 ---
 
-# ☁️ Cloud Research Analyst Intern
+## ☁️ Cloud Research Analyst Intern
 
 ### CLARCHS.com
 
-`Jan 2025 – Apr 2025`
+**Jan 2025 – Apr 2025**
 
 * 🧩 Built **8+ reusable React/Next.js components**
 * ♻️ Reduced duplicate frontend code by approximately **25%**
@@ -466,17 +489,27 @@ Contributed as part of the R2VFX Studios technology team on **Dhurandhar 2 (2025
 
 ---
 
-# 🧠 Problem Solving
+# 🧠 Data Structures & Algorithms
 
 <div align="center">
 
+<a href="https://leetcode.com/u/shashankraj72777/">
+
 <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+
+</a>
 
 <br><br>
 
-### Data Structures & Algorithms
-
 `Arrays` · `Trees` · `Graphs` · `Dynamic Programming` · `Binary Search`
+
+<br><br>
+
+<a href="https://leetcode.com/u/shashankraj72777/">
+
+<img src="https://img.shields.io/badge/Visit%20My%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+
+</a>
 
 </div>
 
@@ -495,13 +528,13 @@ while (learning) {
 
 <div align="center">
 
-### Chandigarh University
+## Chandigarh University
 
-**B.Tech — Computer Science & Engineering (AI & ML)**
+### B.Tech in Computer Science & Engineering — AI & ML
 
-`2022 – 2026`
+**2021 – 2025**
 
-### CGPA: **7.91 / 10**
+### 🎯 CGPA: 7.91 / 10
 
 </div>
 
@@ -514,51 +547,51 @@ while (learning) {
 <table>
 
 <tr>
-<td>🚀</td>
+<td align="center">🚀</td>
 <td><strong>10+</strong></td>
-<td>Production features shipped</td>
+<td>Production features delivered</td>
 </tr>
 
 <tr>
-<td>⚡</td>
+<td align="center">⚡</td>
 <td><strong>~40%</strong></td>
 <td>API response-time improvement</td>
 </tr>
 
 <tr>
-<td>🐞</td>
+<td align="center">🐞</td>
 <td><strong>~30%</strong></td>
 <td>Reduction in reported bugs</td>
 </tr>
 
 <tr>
-<td>🤖</td>
+<td align="center">🤖</td>
 <td><strong>30+</strong></td>
 <td>Engineering roles supported by AI interview platform</td>
 </tr>
 
 <tr>
-<td>🧩</td>
+<td align="center">🧩</td>
 <td><strong>4</strong></td>
 <td>Microservices in Scalr</td>
 </tr>
 
 <tr>
-<td>🗄️</td>
+<td align="center">🗄️</td>
 <td><strong>60%</strong></td>
-<td>Reduction in repeated DB queries</td>
+<td>Reduction in repeated database queries</td>
 </tr>
 
 <tr>
-<td>🧠</td>
+<td align="center">🧠</td>
 <td><strong>200+</strong></td>
 <td>LeetCode problems solved</td>
 </tr>
 
 <tr>
-<td>🎬</td>
+<td align="center">🎬</td>
 <td><strong>Dhurandhar 2</strong></td>
-<td>Contributed as part of the R2VFX Studios technology team</td>
+<td>R2VFX Studios technology team contribution</td>
 </tr>
 
 </table>
@@ -595,6 +628,8 @@ while (learning) {
 
 </div>
 
+> **Note:** The snake animation requires a GitHub Actions workflow that generates `github-contribution-grid-snake.svg`. The README itself cannot generate that file.
+
 ---
 
 # 🎯 Current Focus
@@ -602,44 +637,61 @@ while (learning) {
 <div align="center">
 
 <img src="https://img.shields.io/badge/Full--Stack-Development-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+
 <img src="https://img.shields.io/badge/Backend-Engineering-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
 <img src="https://img.shields.io/badge/AI-Powered%20Applications-8A2BE2?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Distributed-Systems-FF6F00?style=for-the-badge" />
 
 </div>
 
+<br>
+
 ```text
-Building
-   ↓
-Production-Ready Full-Stack Applications
-   ↓
-AI-Powered Applications
-   ↓
-Real-Time Systems
-   ↓
-Distributed & Event-Driven Systems
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  🚀 Full-Stack Development                           │
+│                                                      │
+│  ⚙️ Backend Engineering                              │
+│                                                      │
+│  🤖 AI-Powered Applications                          │
+│                                                      │
+│  ⚡ Real-Time Applications                            │
+│                                                      │
+│  🧩 Distributed & Event-Driven Systems               │
+│                                                      │
+│  🧠 Data Structures & Algorithms                    │
+│                                                      │
+└──────────────────────────────────────────────────────┘
 ```
 
 ---
 
-# 🔥 My Engineering Philosophy
+# 🔥 Engineering Philosophy
 
 <div align="center">
 
 ```text
-        THINK
-          ↓
-       DESIGN
-          ↓
-        BUILD
-          ↓
-        TEST
-          ↓
-       MEASURE
-          ↓
-      OPTIMIZE
-          ↓
-        SHIP 🚀
+             💡 THINK
+                │
+                ▼
+            🧠 DESIGN
+                │
+                ▼
+             🔨 BUILD
+                │
+                ▼
+             🧪 TEST
+                │
+                ▼
+            📊 MEASURE
+                │
+                ▼
+            ⚡ OPTIMIZE
+                │
+                ▼
+             🚀 SHIP
 ```
 
 ### Build with purpose.
@@ -654,24 +706,34 @@ Distributed & Event-Driven Systems
 
 ---
 
-# 🤝 Let's Connect
+# 🌐 Let's Connect
 
 <div align="center">
 
-I'm interested in **software engineering, full-stack development, backend systems, AI applications, and challenging engineering problems.**
+### Interested in Software Engineering & Full-Stack Opportunities?
+
+I'm open to **SDE-1 and Full Stack Software Engineer opportunities**, including **remote worldwide and relocation opportunities**.
 
 <br>
 
-<a href="https://github.com/Shashankraj72777">
-<img src="https://img.shields.io/badge/GitHub-Shashankraj72777-181717?style=for-the-badge&logo=github" />
+<a href="https://portfolio-iota-eight-coskywto4u.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Explore%20My%20Work-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/shashankraj72777/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/Shashankraj72777">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Code-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://leetcode.com/u/shashankraj72777/">
+<img src="https://img.shields.io/badge/LeetCode-See%20My%20DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 
 <a href="mailto:shashankraj72777@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-shashankraj72777%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -680,9 +742,11 @@ I'm interested in **software engineering, full-stack development, backend system
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&animation=twinkling" width="100%"/>
 
 ### `Build → Measure → Optimize → Ship → Repeat.` ⚡
+
+<br>
 
 ⭐ **Thanks for visiting my profile!**
 
