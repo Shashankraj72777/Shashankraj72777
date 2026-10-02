@@ -1,90 +1,87 @@
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img src="./dark.svg" alt="Shashank Raj — Full Stack Engineer" width="100%">
-</picture>
-
-<br>
-
-<h1>Shashank Raj</h1>
-
-<h3>Full Stack Engineer · React · Next.js · Node.js · TypeScript · PostgreSQL</h3>
-
-<p>
-  Building production-ready full-stack applications with a focus on backend systems,
-  API performance, real-time applications, and scalable architecture.
-</p>
-
-<p>
-  <a href="https://portfolio-iota-eight-coskywto4u.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/shashankraj72777/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<p align="center">
   <a href="https://github.com/Shashankraj72777">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://leetcode.com/u/shashankraj72777/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+    <img src="./dark.svg" alt="Shashank Raj — Full Stack Engineer" width="100%">
   </a>
 </p>
 
-<p>
-  <a href="mailto:shashankraj72777@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+<p align="center">
+  <a href="https://portfolio-iota-eight-coskywto4u.vercel.app/">Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/Shashankraj72777">GitHub</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/shashankraj72777/">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://leetcode.com/u/shashankraj72777/">LeetCode</a>
 </p>
 
-</div>
+---
+
+# `SYSTEM.INFO`
+
+```text
+> NAME        Shashank Raj
+> ROLE        Full Stack Engineer
+> EXPERIENCE  1+ Year
+> LOCATION    India
+> FOCUS       Full-Stack / Backend Engineering
+> STACK       React · Next.js · Node.js · TypeScript
+> DATABASE    PostgreSQL · Redis · Supabase
+> SYSTEMS     Microservices · RabbitMQ · REST APIs
+```
 
 ---
 
-## 👋 About Me
+## `~/profile`
 
-I'm a **Full Stack Engineer** with **1+ year of production experience** building React/Next.js frontends and Node.js/PostgreSQL backends.
+I'm a **Full Stack Engineer** with **1+ year of production experience** building modern web applications with React/Next.js and Node.js/PostgreSQL.
 
-My engineering work focuses on:
+My work focuses on building production features, improving API performance, designing backend services, implementing authentication and authorization, and developing real-time and distributed systems.
 
-- Building production-ready full-stack applications
-- Backend APIs and performance optimization
-- Real-time applications
-- Microservices and event-driven systems
-- Authentication and role-based access control
-- PostgreSQL and Redis
-- CI/CD and containerized deployments
-- AI-powered applications using LLM APIs
-
-I've shipped **10+ production features**, improved API response times by approximately **40%**, implemented JWT/RBAC across **5+ roles**, built **3 live full-stack projects**, and solved **200+ LeetCode problems in C++**.
-
-> **Build. Optimize. Ship.**
+```text
+10+     production features shipped
+~40%    API response-time improvement
+~30%    reduction in reported bugs
+5+      RBAC roles implemented
+3       live full-stack projects
+200+    LeetCode problems solved
+```
 
 ---
 
-## ⚡ Engineering Focus
+# `ENGINEERING.FOCUS`
 
-<div align="center">
-
-| Area | Focus |
-|---|---|
-| 🚀 Full Stack | React.js · Next.js · Node.js |
-| ⚙️ Backend | Express.js · REST APIs · Microservices |
-| ⚡ Real-Time | Socket.IO · Redis |
-| 📨 Distributed Systems | RabbitMQ · Event-Driven Architecture |
-| 🗄️ Data | PostgreSQL · Redis · Supabase |
-| 🔐 Security | JWT · RBAC |
-| 🐳 DevOps | Docker · GitHub Actions · CI/CD |
-| 🤖 AI | LLM APIs · Prompt Engineering |
-
-</div>
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│  FULL-STACK DEVELOPMENT                                  │
+│  React.js · Next.js · Node.js                            │
+│                                                          │
+│  BACKEND ENGINEERING                                     │
+│  Express.js · REST APIs · PostgreSQL · Redis              │
+│                                                          │
+│  DISTRIBUTED SYSTEMS                                     │
+│  Microservices · RabbitMQ · Event-Driven Architecture    │
+│                                                          │
+│  SECURITY                                                │
+│  JWT · RBAC                                              │
+│                                                          │
+│  REAL-TIME SYSTEMS                                       │
+│  Socket.IO · Redis                                      │
+│                                                          │
+│  DEVOPS                                                  │
+│  Docker · GitHub Actions · CI/CD                         │
+│                                                          │
+│  AI                                                       │
+│  LLM APIs · Prompt Engineering                           │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
 ---
 
-# 🛠️ Technical Stack
+# `TECH.STACK`
 
-### 💻 Languages
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,cpp" alt="TypeScript JavaScript C++">
@@ -92,7 +89,7 @@ I've shipped **10+ production features**, improved API response times by approxi
 
 `TypeScript` · `JavaScript` · `SQL` · `C++`
 
-### 🎨 Frontend
+### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React Next.js Tailwind CSS">
@@ -100,23 +97,31 @@ I've shipped **10+ production features**, improved API response times by approxi
 
 `React.js` · `Next.js` · `Tailwind CSS`
 
-### ⚙️ Backend
+### Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js Express">
 </p>
 
-`Node.js` · `Express.js` · `REST APIs` · `Socket.IO` · `Microservices` · `RabbitMQ` · `JWT` · `RBAC`
+`Node.js` · `Express.js` · `REST APIs` · `Socket.IO` · `Microservices`
 
-### 🗄️ Databases
+### Messaging & Systems
+
+`RabbitMQ` · `Redis`
+
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,redis" alt="PostgreSQL Redis">
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL">
 </p>
 
-`PostgreSQL` · `Redis` · `Supabase`
+`PostgreSQL` · `Supabase`
 
-### 🐳 DevOps
+### Authentication
+
+`JWT` · `RBAC`
+
+### DevOps
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,githubactions" alt="Docker Git GitHub Actions">
@@ -124,178 +129,193 @@ I've shipped **10+ production features**, improved API response times by approxi
 
 `Docker` · `Git` · `GitHub Actions` · `CI/CD`
 
-### 🤖 AI / Cloud
+### AI / Cloud
 
 `LLM APIs` · `Prompt Engineering` · `Vercel` · `Render`
 
 ---
 
-# 🚀 Featured Projects
+# `FEATURED.PROJECTS`
 
-## 🤖 AI Mock Interview Platform
+## `01` — TrackMint
 
-<a href="https://github.com/Shashankraj72777/ai-mock-interview">
-  <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
-</a>
-<a href="https://ai-mock-interview-eight-blond.vercel.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-</a>
-
-AI-powered real-time mock interview platform supporting interview flows across **30 engineering roles**.
-
-### Key Features
-
-- Real-time interview sessions using **Socket.IO**
-- In-browser **Monaco code editor**
-- Redis-backed live-session state
-- PostgreSQL checkpoints for session recovery
-- Integrated multiple LLM providers
-- Built with Next.js and TypeScript
-- Deployed using Vercel, Render, and Upstash
-
-### Technology
-
-`Next.js` · `TypeScript` · `Node.js` · `Socket.IO` · `PostgreSQL` · `Redis` · `LLM APIs` · `Vercel` · `Render` · `Upstash`
-
-### Architecture
+### AI-Assisted Expense Dashboard
 
 ```text
-┌─────────────────────────────┐
-│         Next.js UI          │
-│     Interview Platform      │
-└──────────────┬──────────────┘
-               │
-               ▼
-┌─────────────────────────────┐
-│         Socket.IO            │
-│       Real-Time Layer        │
-└──────────────┬──────────────┘
-               │
-        ┌──────┴──────┐
-        ▼             ▼
-┌─────────────┐ ┌─────────────┐
-│    Redis    │ │ PostgreSQL  │
-│ Live Session│ │ Checkpoints │
-│    State    │ │             │
-└──────┬──────┘ └──────┬──────┘
-       │                │
-       └───────┬────────┘
-               ▼
-       ┌───────────────┐
-       │    LLM APIs   │
-       │ AI Interviewer│
-       └───────────────┘
+Next.js 15
+TypeScript
+Supabase
+PostgreSQL
+OpenAI / Gemini
+Tailwind CSS
 ```
 
----
+A responsive expense dashboard with secure authentication, PostgreSQL Row-Level Security, CRUD operations, analytics, and modern Next.js architecture.
 
-## ⚙️ Scalr — Distributed Order System
+### Highlights
 
-<a href="https://github.com/Shashankraj72777/scalr-distributed-order-system">
-  <img src="https://img.shields.io/badge/Source%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code">
-</a>
-
-Distributed order system built around microservices, asynchronous messaging, caching, PostgreSQL, and containerized development.
-
-### Key Features
-
-- Microservice-based architecture
-- RabbitMQ event-driven communication
-- Retry and dead-letter queue handling
-- Redis caching with database fallback
-- PostgreSQL persistence
-- Docker Compose for local development
-
-### Technology
-
-`Node.js` · `TypeScript` · `PostgreSQL` · `Redis` · `RabbitMQ` · `Docker`
-
-### Architecture
-
-```text
-                  ┌──────────────────┐
-                  │    API Gateway   │
-                  └────────┬─────────┘
-                           │
-                           ▼
-                  ┌──────────────────┐
-                  │     RabbitMQ     │
-                  │  Event Messaging │
-                  └────────┬─────────┘
-                           │
-          ┌────────────────┼────────────────┐
-          ▼                ▼                ▼
-   ┌────────────┐   ┌────────────┐   ┌────────────┐
-   │    Auth    │   │    User    │   │   Order    │
-   │   Service  │   │   Service  │   │   Service  │
-   └────────────┘   └────────────┘   └─────┬──────┘
-                                           │
-                                           ▼
-                                  ┌────────────────┐
-                                  │   Notification │
-                                  │    Service     │
-                                  └───────┬────────┘
-                                          │
-                         ┌────────────────┴──────────────┐
-                         ▼                               ▼
-                  ┌─────────────┐                ┌─────────────┐
-                  │ PostgreSQL  │                │    Redis    │
-                  │   Database  │                │    Cache    │
-                  └─────────────┘                └─────────────┘
-```
-
----
-
-## 💰 TrackMint — AI-Assisted Expense Dashboard
-
-`Next.js 15` · `TypeScript` · `Supabase` · `PostgreSQL` · `OpenAI/Gemini` · `Tailwind CSS`
-
-A responsive expense dashboard with dark/light themes and secure per-user data isolation.
-
-### Key Features
-
-- Dark/light themed responsive UI
+- Dark/light themed responsive interface
 - Skeleton loading states
 - Supabase authentication
 - PostgreSQL Row-Level Security
 - Secure CRUD operations
-- Month-over-month calculations
+- Monthly delta calculations
 - Category aggregation
 - Composite-indexed queries
-- Next.js Server Components and Actions
+- Next.js Server Components and Server Actions
 - Targeted cache invalidation
 
 ---
 
-# 💼 Professional Experience
+## `02` — AI Mock Interview Platform
+
+```text
+Next.js
+TypeScript
+Node.js
+Socket.IO
+PostgreSQL
+Redis
+LLM APIs
+Vercel
+Render
+Upstash
+```
+
+A real-time AI interview platform designed around interactive engineering interviews.
+
+### Highlights
+
+- Supports **30 engineering roles**
+- Real-time interview state using Socket.IO
+- In-browser Monaco code editor
+- Redis-backed live sessions
+- PostgreSQL checkpoints
+- Multiple LLM providers
+- Next.js and TypeScript frontend
+- Real-time backend architecture
+
+### Architecture
+
+```text
+                    ┌─────────────────────┐
+                    │      Next.js UI     │
+                    │   Interview Client  │
+                    └──────────┬──────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │      Socket.IO       │
+                    │    Real-Time Layer   │
+                    └──────────┬──────────┘
+                               │
+                    ┌──────────┴──────────┐
+                    ▼                     ▼
+             ┌─────────────┐      ┌─────────────┐
+             │    Redis    │      │ PostgreSQL  │
+             │ Live State  │      │ Checkpoints │
+             └─────────────┘      └─────────────┘
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │      LLM APIs       │
+                    │ AI Interview Engine │
+                    └─────────────────────┘
+```
+
+---
+
+## `03` — Scalr
+
+### Distributed Order System
+
+```text
+Node.js
+TypeScript
+PostgreSQL
+Redis
+RabbitMQ
+Docker
+```
+
+A distributed order system built using microservices and event-driven communication.
+
+### Highlights
+
+- Microservice architecture
+- RabbitMQ event-driven communication
+- Redis caching
+- PostgreSQL persistence
+- Retry handling
+- Dead-letter queues
+- Docker Compose development environment
+
+### Architecture
+
+```text
+                       ┌─────────────────┐
+                       │   API Gateway   │
+                       └────────┬────────┘
+                                │
+                                ▼
+                       ┌─────────────────┐
+                       │  Auth Service   │
+                       └────────┬────────┘
+                                │
+                                ▼
+                       ┌─────────────────┐
+                       │  User Service   │
+                       └────────┬────────┘
+                                │
+                                ▼
+                       ┌─────────────────┐
+                       │ Order Service   │
+                       └────────┬────────┘
+                                │
+                                ▼
+                    ┌────────────────────────┐
+                    │ Notification Service  │
+                    └───────────┬────────────┘
+                                │
+                    ┌───────────┴───────────┐
+                    ▼                       ▼
+             ┌─────────────┐         ┌─────────────┐
+             │ PostgreSQL  │         │    Redis    │
+             │   Storage   │         │    Cache    │
+             └─────────────┘         └─────────────┘
+
+                    RabbitMQ
+                 Event Messaging
+```
+
+---
+
+# `PROFESSIONAL.EXPERIENCE`
 
 ## Junior Full Stack Developer
 
 ### R2VFX Studios Pvt. Ltd.
 
-**Jul 2025 – Sep 2026 · Remote**
+`Jul 2025 – Sep 2026`
 
 ```text
-React.js / Next.js
-        ↓
-Node.js / Express.js
-        ↓
-PostgreSQL / Redis
-        ↓
-JWT / RBAC
-        ↓
-Docker / GitHub Actions / CI/CD
+React.js · Next.js
+Node.js · Express.js
+PostgreSQL · Redis
+JWT · RBAC
+Docker · GitHub Actions · CI/CD
 ```
 
-### Engineering Impact
+### Engineering Work
 
 - Built reusable React/Next.js UI components and internal dashboards.
 - Shipped **10+ production features** across React/Next.js and Node.js/Express.
 - Reduced reported bugs by approximately **30%**.
 - Reduced API response times by approximately **40%** on high-traffic endpoints.
 - Added PostgreSQL indexes and eliminated N+1 query patterns.
-- Implemented JWT authentication and RBAC for **5+ user roles**.
-- Maintained GitHub Actions CI/CD pipelines for production deployments.
+- Implemented JWT authentication.
+- Implemented RBAC across **5+ user roles**.
+- Maintained GitHub Actions CI/CD pipelines.
 - Credited as part of the R2VFX Studios technology team on **Dhurandhar 2 (2026)**.
 
 ---
@@ -304,9 +324,15 @@ Docker / GitHub Actions / CI/CD
 
 ### CLARCHS.com
 
-**Jan 2025 – Apr 2025 · Remote**
+`Jan 2025 – Apr 2025`
 
-### Engineering Impact
+```text
+React.js · Next.js
+JavaScript
+REST APIs
+```
+
+### Engineering Work
 
 - Built **8+ reusable React/Next.js components**.
 - Integrated **4 REST APIs**.
@@ -315,25 +341,33 @@ Docker / GitHub Actions / CI/CD
 
 ---
 
-# 🧠 Data Structures & Algorithms
-
-<p align="center">
-
-<a href="https://leetcode.com/u/shashankraj72777/">
-  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode 200+">
-</a>
-
-</p>
-
-I regularly practice **Data Structures & Algorithms using C++**.
+# `ENGINEERING.IMPACT`
 
 ```text
-Arrays
-Trees
-Graphs
-Dynamic Programming
-Binary Search
+┌───────────────────────────────────────────────────────────┐
+│                                                           │
+│   10+       Production features shipped                  │
+│                                                           │
+│   ~40%      API response-time improvement                │
+│                                                           │
+│   ~30%      Reduction in reported bugs                    │
+│                                                           │
+│   5+        RBAC roles                                    │
+│                                                           │
+│   8+        Reusable React / Next.js components           │
+│                                                           │
+│   4         REST API integrations                         │
+│                                                           │
+│   3         Live full-stack projects                      │
+│                                                           │
+│   200+      LeetCode problems                             │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
 ```
+
+---
+
+# `DSA.LOG`
 
 ```cpp
 while (learning) {
@@ -344,97 +378,74 @@ while (learning) {
 }
 ```
 
+### LeetCode
+
+**200+ problems solved using C++**
+
+<a href="https://leetcode.com/u/shashankraj72777/">
+  <img src="https://img.shields.io/badge/LeetCode-200%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+</a>
+
 ---
 
-# 🎓 Education
-
-<div align="center">
+# `EDUCATION`
 
 ### Chandigarh University, Mohali
 
-**B.Tech in Computer Science Engineering — AI & ML**
+**B.Tech — Computer Science Engineering (AI & ML)**
 
 `2021 – 2025`
 
 **CGPA: 7.91 / 10**
 
-</div>
+---
+
+# `CURRENT.FOCUS`
+
+```text
+> Building full-stack applications
+> Improving backend performance
+> Designing scalable APIs
+> Exploring distributed systems
+> Building real-time applications
+> Working with LLM-powered applications
+> Practicing Data Structures & Algorithms
+```
 
 ---
 
-# 📊 Engineering Highlights
+# `GITHUB.ACTIVITY`
 
-<div align="center">
+<p align="center">
 
-| Metric | Impact |
-|---|---|
-| 🚀 **10+** | Production features shipped |
-| ⚡ **~40%** | API response-time improvement |
-| 🐞 **~30%** | Reduction in reported bugs |
-| 🔐 **5+** | RBAC roles |
-| 🧩 **8+** | Reusable React/Next.js components |
-| 🔌 **4** | REST API integrations |
-| 🚀 **3** | Live full-stack projects |
-| 🧠 **200+** | LeetCode problems solved |
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Shashankraj72777&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent"
+  alt="Shashank Raj GitHub Statistics"
+/>
 
-</div>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankraj72777&layout=compact&langs_count=8&hide_border=true&theme=transparent"
+  alt="Shashank Raj Top Languages"
+/>
 
----
-
-# 🎯 Current Focus
-
-<div align="center">
-
-`Full-Stack Development`
-
-`Backend Engineering`
-
-`API Performance`
-
-`Real-Time Applications`
-
-`Distributed Systems`
-
-`Microservices`
-
-`AI-Powered Applications`
-
-`CI/CD`
-
-</div>
+</p>
 
 ---
 
-# 📈 GitHub
+# `CONNECT`
 
-<div align="center">
+<p align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Shashankraj72777&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub Stats">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashankraj72777&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Top Languages">
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=Shashankraj72777&hide_border=true&theme=transparent" alt="GitHub Streak">
-
-</div>
-
----
-
-# 🌐 Connect
-
-<div align="center">
-
-<a href="https://portfolio-iota-eight-coskywto4u.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+<a href="https://github.com/Shashankraj72777">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/shashankraj72777/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://github.com/Shashankraj72777">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+<a href="https://portfolio-iota-eight-coskywto4u.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
 </a>
 
 <a href="https://leetcode.com/u/shashankraj72777/">
@@ -445,18 +456,20 @@ while (learning) {
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-<br><br>
-
-**Open to Remote, Hybrid & Relocation opportunities within India.**
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### Build. Optimize. Ship.
+```text
+┌───────────────────────────────────────────────┐
+│                                               │
+│              BUILD · OPTIMIZE · SHIP         │
+│                                               │
+└───────────────────────────────────────────────┘
+```
 
-⭐ Thanks for visiting my profile!
+**Full Stack Engineer · Backend Focused · Production Systems**
 
 </div>
